@@ -1,0 +1,223 @@
+body{
+   margin-left:27px;
+   margin-top: -10px;
+ /*  background-color: rgba(127, 255, 212, 0.627);*/
+   background-color:#13141f;
+   overflow-x: hidden;
+   padding: 5px;
+   width: 80%;
+}
+
+
+.dy_{
+     background-color: white;
+    /* box-shadow: 0px 10px 20px 5px rgb(0, 200, 255);*/
+     border-radius: 5px;
+     height: 1420px;
+     width: 1285px;
+}
+
+.img_01{
+    position: absolute;
+    top: 210px;
+    left: 55px;
+    inline-size:1.5%;
+}
+
+.img_02{
+    position:absolute;
+    top: 170px;
+    left: 55px;
+    inline-size:1.7%;
+
+}
+
+.contato_git{
+    position: relative;
+    top: 17px;
+    right: -180px;
+}
+
+.txt_6{
+    position: absolute;
+    color:black;
+    font-size: 17px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 90px;
+    top: 195px;
+}
+
+.div{
+    position: relative;
+    top: 290px;
+    left: 8px;
+    height: 100px;
+    width: 1270px;
+    background-color:#13131f;
+    border-radius: 5px;
+    transition: 1s;
+}
+
+.div:hover{
+
+    position: relative;
+    top: 300px;
+    left: 8px;
+    height: 300px;
+    width: 1270px;
+    background-color:#13131f;
+    border-radius: 5px;
+
+}
+
+.txt_t1{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;     
+    position: absolute;
+    right: 1045px;
+    top: 50px;
+    
+    transition: 2s;
+}
+
+.txt_t2{
+   color:black;
+   font-size: 35px;
+   font-family: monospace;
+   position: absolute;
+   right: 850px;
+   top: 100px;
+}
+
+
+.txt_t3{
+    position: relative;
+    left: 550px;
+    color: white;
+    font-family:monospace ;  
+}
+
+.txt_t5{
+    color:black;
+    font-size: 17px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 90px;
+    top: 160px;    
+}
+
+.txt_tt{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+.txt_nome{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.txt_t4{
+    font-family: monospace;
+    position: relative;
+    top: 335px;
+    left: 550px;
+}
+
+.txt_hbdd{
+    font-family: monospace;
+    position: relative;
+    top: 220px;
+    left: 550px;
+}
+
+.img{
+    position: relative;
+    top: 360px;
+    left: 100px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.img:hover{
+    position: relative;
+    top: 350px;
+    left: 100px;
+    border-radius: 5px;
+    box-shadow:2px 3px 2px #13131f6d;
+}
+
+
+.img_{
+    position: relative;
+    top: 105px;
+    left: 770px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.img_:hover{
+    position: relative;
+    top: 95px;
+    left: 770px;
+    border-radius: 5px;
+    box-shadow:2px 3px 2px #13131f6d;
+}
+
+.img_2{
+    position: relative;
+    top: 160px;
+    left: 470px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.img_2:hover{
+    position: relative;
+    top: 150px;
+    left: 470px;
+    border-radius: 5px;
+    box-shadow:2px 3px 2px #13131f6d;
+}
+
+.txt_tl{
+    position: relative;
+    top: 370px;
+    left: 100px;
+}
+
+.txt_tls{
+    position: relative;
+    top: 115px;
+    left: 790px;
+
+}
+
+
+.b_txt{
+    color: white;
+}
+
+.b_mercado_l{
+    position: relative;
+}
+
+.img_css{
+    position: relative;
+    top: 240px;
+    left: 160px;
+}
+
+.img_html{
+    position: relative;
+    top: 240px;
+    left: 950px;
+}
+
+.img_js{
+    position: relative;
+    top: 240px;
+    left: 400px;
+}
