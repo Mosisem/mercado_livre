@@ -1,0 +1,124 @@
+body{
+    background-color: rgba(47, 255, 64, 0.836);
+    margin-left: 23px;
+}
+
+nav {
+    display: block;
+}
+
+li{
+    
+    /*background-color: blue;*/
+    display: inline;
+    padding: 10px;
+    transition:background-color 1s;
+}
+
+li:hover{
+    background-color: rgb(0, 255, 34);
+
+   
+}
+
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.menu{
+    position: absolute;
+    top: 35px;
+    left:900px ;
+}
+
+.input_t{
+    width: 260px;
+    height: 40px;
+    border-radius: 6px;
+    border: none;
+    position: absolute;
+    top: 120px;
+    left: 905px;
+    background-color: rgba(47, 255, 75, 0.658);
+}
+
+.input_n{
+    width: 260px;
+    height: 40px;
+    border-radius: 6px;
+    border: none;
+    position: absolute;
+    top: 187px;
+    left: 905px;
+    background-color: rgba(47, 255, 75, 0.658);
+}
+
+.bottun{
+    width: 120px;
+    height: 30px;
+    border-radius: 4px;
+    border: none;
+    position: absolute;
+    top: 270px;
+    left: 985px;
+    background-color:rgba(0, 0, 0, 0.692);
+    
+    
+}
+
+
+.bottun:hover{
+    background-color: rgba(47, 255, 47, 0.76);
+}
+
+.txt{
+    width: 35px;
+    height:15px ;
+    color:white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.txt_t{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    position: absolute;
+    top: 310px;
+    left: 980px;
+}
+
+.b2{
+    position: absolute;
+    width:146px;
+    height: 45px;
+    top: 380px;
+    left: 905px;
+}
+
+.b3{
+    position: absolute;
+    width:115px;
+    height: 45px;
+    top: 380px;
+    left: 1070px;
+}
+
+input::placeholder{
+    color:black;
+    
+}
+
+.menu{
+    position: absolute;
+    top: 20px;
+    left: 915px;
+}

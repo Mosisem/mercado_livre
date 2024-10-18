@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.nav_head{
+    position: absolute;
+    top: -6px;
+    box-shadow: 2px 0px 2px 1px white;
+    height: 75px;
+    width: 1341px;
+}
+
+.menu_txt{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    top: 40px;
+    left: 1230px;
+
+}
+
+.img_menu{
+    position: absolute;
+    top: 12px;
+    left: 20px;
+}
+
+.txt_menu_title{
+    position: absolute;
+    top: 13px;
+    left: 80px;
+}
+
+.poste_1{
+    position: absolute;
+    top: 190px;
+    left: 520px;
+    height: 800px;
+    width: 450px;
+    background-color: rgb(38, 37, 37);
+    /* box-shadow: 2px 0px 2px 1px white;*/
+    border-radius: 7px;
+}
+
+.post_img{
+    position: absolute;
+    top: 40px;
+    left: 12px;
+}
+
+.poste_2{
+    position: absolute;
+    top: 1060px;
+    left: 520px;
+    height: 800px;
+    width: 450px;
+    background-color: rgb(38, 37, 37);
+    /* box-shadow: 2px 0px 2px 1px white;*/
+    border-radius: 7px;
+}
+
+.post2_img{
+    position: absolute;
+    top: 40px;
+    left: 12px;
+}
+
+.poste_3{
+    position: absolute;
+    top: 1900px;
+    left: 520px;
+    height: 800px;
+    width: 450px;
+    background-color: rgb(38, 37, 37);
+    /* box-shadow: 2px 0px 2px 1px white;*/
+    border-radius: 7px;
+}
+
+.post3_img{
+    position: absolute;
+    top: 40px;
+    left: 12px;
+}

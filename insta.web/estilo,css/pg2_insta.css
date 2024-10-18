@@ -1,0 +1,93 @@
+.imgs{
+    position: relative;
+    top: 15px ;
+    left: 200px;
+}
+
+._menu{
+    position: relative;
+    top: -30px;
+    left: 260px;
+}
+
+.inp_t{
+    background-color: ghostwhite;
+    width:228px ;
+    height:34px ;
+    border-radius: 5px;
+    position: absolute;
+    top: 170px;
+    left: 780px;
+    border:none!important;
+    background-color: rgba(53, 60, 65, 0.062)!important;
+}
+
+.inp_s{
+    background-color: rgb(255, 248, 248);
+    width:228px ;
+    height:34px ;
+    border-radius: 5px;
+    position: absolute;
+    border:none!important;
+    background-color: rgba(53, 60, 65, 0.062)!important;
+    top: 215px;
+    left: 780px;    
+}
+
+.botton{    
+    background-color: rgb(0, 174, 255);
+    width:240px ;
+    height:30px ;
+    border-radius: 10px;
+    position:absolute;
+    border:none!important;
+    background-color: rgb(0, 174, 255)!important;
+    top: 260px;
+    left: 780px ;
+}
+
+.botton2{
+    position: absolute;
+    top: 340px;
+    left: 800px ;
+}
+
+.botton3{
+    width:160px ;
+    height:25px ;
+    border-radius: 10px;
+    position:absolute;
+    top: 400px;
+    left: 825px ;
+    border:none!important;
+    background-color:rgba(128, 128, 128, 0.445)!important;
+}
+
+.botton4{
+    width:200px ;
+    height:60px ;
+    position: absolute;
+    top: 500px;
+    left: 725px ;
+}
+
+.botton5{
+    width:156px ;
+    height:58px ;
+    position: absolute;
+    top: 500px;
+    left: 940px ;
+}
+
+.value{
+    color: white;
+    position:absolute;
+    top: 244px;
+    left: 872px ;
+}
+
+.text_{
+    position: absolute;
+    top: 280px;
+    left: 840px ;
+}
